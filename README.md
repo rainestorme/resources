@@ -3,6 +3,9 @@ A collection of useful links, tools, and files.
 
 ## Proxies
 - https://github.com/HENRYMARTIN5/proxy-list
+- https://github.com/clarketm/proxy-list
+- https://github.com/TheSpeedX/PROXY-List
+- https://github.com/ShiftyTR/Proxy-List
 
 ## Exploits
 - https://github.com/rainestorme/auto-sh1mmer
