@@ -13,4 +13,4 @@ A collection of useful links, tools, and files.
 ## ISOs, Recovery Images, RMA shims, etc.
 - https://chrome100.dev/
 - https://cros.tech/
-- https://github.com/rainestorme/resources/tree/main/isos
+- https://mega.nz/folder/TZIQ1IDa#bcQ3gNKXQK8yO9ghPFqVlQ
