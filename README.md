@@ -17,3 +17,6 @@ A collection of useful links, tools, and files.
 - https://chrome100.dev/
 - https://cros.tech/
 - https://mega.nz/folder/TZIQ1IDa#bcQ3gNKXQK8yO9ghPFqVlQ
+
+## Other
+- https://github.com/rainestorme/bookmarklets
