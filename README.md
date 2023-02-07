@@ -1,6 +1,8 @@
 # Resources
 A collection of useful links, tools, and files.
 
+Check out my blog: https://rainestorme.github.io/
+
 ## Proxies
 - https://github.com/HENRYMARTIN5/proxy-list
 - https://github.com/clarketm/proxy-list
