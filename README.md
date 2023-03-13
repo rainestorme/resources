@@ -14,6 +14,10 @@ Check out my blog: https://rainestorme.github.io/
 - https://github.com/rainestorme/ez-admin
 - https://github.com/3kh0/ext-remover
 - https://github.com/rainestorme/GoodbyeGoGuardian
+- https://github.com/MercuryWorkshop/fakemurk
+- https://github.com/MercuryWorkshop/sh1mmer
+- https://github.com/MercuryWorkshop/Pollen
+- https://github.com/MercuryWorkshop/mac-address-randomizer
 
 ## ISOs, Recovery Images, RMA shims, etc.
 - https://chrome100.dev/
