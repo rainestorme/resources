@@ -20,7 +20,7 @@ You should be dropped into a *root* bash prompt (please, please, hold your appla
 
 If you want to unenroll your Chromebook, just run: `vpd -i RW_VPD -s check_enrollment=0`. From there, press `Esc+Refresh+Power` and press `Ctrl+D`. Press enter, then wait for the chromebook to reboot. Press `Ctrl+D` if a screen shows up about verification being off, and wait for the chromebook to reboot in verified mode. All data should be cleared, and your chromebook will be unenrolled. You can setup your chromebook as normal, and sign in with a home account.
 
-To fakemurk your Chromebook, you have to be unenrolled first. Update your Chromebook (it'll only update to v105) and press `Esc+Refresh+Power`. Press `Ctrl+D`, then enter. Wait the 5 minutes for your Chromebook to enter developer mode, then proceed with typical setup. When you get logged in, press `Ctrl+Shift+T` and type `shell`.
+To fakemurk your Chromebook, you have to be unenrolled first. Update your Chromebook (it'll only update to v105) and press `Esc+Refresh+Power`. Press `Ctrl+D`, then enter. Wait the 5 minutes for your Chromebook to enter developer mode, then proceed with typical setup. When you get logged in, press `Ctrl+Alt+T` and type `shell`.
 
 Before you do anything else, however, you need to set up some failsafes. Fakemurk in general is pretty tempramental, and if you mess something up you could easily destroy your installation of ChromeOS. Grab the USB drive you used earlier, or grab the second USB drive if you're using two drives. Install the Chromebook Recovery Tool from the chrome webstore and flash the drive with a v105 image, Just In Case You Fuck It Up™.
 
@@ -43,7 +43,7 @@ Follow the instructions (be sure to respond "Y" for emergency backups, they're u
 
 You should be able to use your Chromebook as an enrolled device, take enrolled tests, and do a ton of other fun things. Sometime in the future, I plan to release a tool allowing the opening of extra browser tabs during kiosk tests (because I know you skids would love that), but that's irrellevant.
 
-Open up crosh (`Ctrl+Shift+T`). You might notice that it's been replaced by "mush", the fakemurk replacement for crosh. You can do a lot from here, but a few key options stand out. Obviously, you want to disable certain extensions, such as GoGuardian, Gopher Buddy and Securly. I don't personally reccomend using "Soft Disable Extensions", as it uses a lot of CPU. It's much easier to hard disable extensions and re-enable them later.
+Open up crosh (`Ctrl+Alt+T`). You might notice that it's been replaced by "mush", the fakemurk replacement for crosh. You can do a lot from here, but a few key options stand out. Obviously, you want to disable certain extensions, such as GoGuardian, Gopher Buddy and Securly. I don't personally reccomend using "Soft Disable Extensions", as it uses a lot of CPU. It's much easier to hard disable extensions and re-enable them later.
 
 One of my favorite capabilities of fakemurk is to run an entire linux desktop environment side-by-side ChromeOS with Crouton. Select the option and wait for it to download the chroot environment to the device. Once you set a password and install the desktop, you can drop into a root bash shell and type `startxfce4` to start the crouton desktop. While you're running the desktop, you can press `Ctrl+Shift+Forward` and `Ctrl+Shift+Back` to get back and forth between the desktop environments.
 
