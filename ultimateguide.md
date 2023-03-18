@@ -16,7 +16,7 @@ You should be dropped into a *root* bash prompt (please, please, hold your appla
 
 - Leave your Chromebook in verified mode and run cedr
 
-## Unenrollment and fakemurk
+## Unenrollment, fakemurk, and murkmod
 
 If you want to unenroll your Chromebook, just run: `vpd -i RW_VPD -s check_enrollment=0`. From there, press `Esc+Refresh+Power` and press `Ctrl+D`. Press enter, then wait for the chromebook to reboot. Press `Ctrl+D` if a screen shows up about verification being off, and wait for the chromebook to reboot in verified mode. All data should be cleared, and your chromebook will be unenrolled. You can setup your chromebook as normal, and sign in with a home account.
 
@@ -48,6 +48,12 @@ Open up crosh (`Ctrl+Alt+T`). You might notice that it's been replaced by "mush"
 One of my favorite capabilities of fakemurk is to run an entire linux desktop environment side-by-side ChromeOS with Crouton. Select the option and wait for it to download the chroot environment to the device. Once you set a password and install the desktop, you can drop into a root bash shell and type `startxfce4` to start the crouton desktop. While you're running the desktop, you can press `Ctrl+Shift+Forward` and `Ctrl+Shift+Back` to get back and forth between the desktop environments.
 
 Policies are also modified, courtesy of Pollen. You can do a lot of things that are normally restricted, such as accessing the webstore and downloading extensions, and installing unsigned apks.
+
+You also have the option of installing murkmod, a project that allows you to install plugins for mush, fakemurk's replacement for crosh. To do so, open a root shell and run the following:
+
+```sh
+bash <(curl -SLk https://raw.githubusercontent.com/rainestorme/murkmod/main/murkmod.sh)
+```
 
 ## Cedr
 
