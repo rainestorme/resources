@@ -14,7 +14,6 @@ So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorm
 ## Exploits
 - https://github.com/rainestorme/auto-sh1mmer
 - https://github.com/rainestorme/ez-admin
-- https://github.com/3kh0/ext-remover
 - https://github.com/rainestorme/GoodbyeGoGuardian
 - https://github.com/MercuryWorkshop/fakemurk
 - https://github.com/MercuryWorkshop/sh1mmer
@@ -22,7 +21,7 @@ So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorm
 - https://github.com/MercuryWorkshop/mac-address-randomizer
 
 ## ISOs, Recovery Images, RMA shims, etc.
-- https://rainestorme.github.io/chrome81 (go to a board's page and click on the bottom right corner for a link to a shim)
+- https://rainestorme.github.io/chrome81
 - https://chrome100.dev/
 - https://cros.tech/
 - https://mega.nz/folder/TZIQ1IDa#bcQ3gNKXQK8yO9ghPFqVlQ
