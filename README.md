@@ -18,7 +18,6 @@ So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorm
 - https://github.com/MercuryWorkshop/fakemurk
 - https://github.com/MercuryWorkshop/sh1mmer
 - https://github.com/MercuryWorkshop/Pollen
-- https://github.com/MercuryWorkshop/mac-address-randomizer
 
 ## ISOs, Recovery Images, RMA shims, etc.
 - https://rainestorme.github.io/chrome81
@@ -28,3 +27,4 @@ So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorm
 
 ## Other
 - https://github.com/rainestorme/bookmarklets
+- https://github.com/MercuryWorkshop/mac-address-randomizer
