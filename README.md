@@ -19,6 +19,7 @@ So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorm
 - https://github.com/MercuryWorkshop/fakemurk
 - https://github.com/MercuryWorkshop/sh1mmer
 - https://github.com/MercuryWorkshop/Pollen
+- [privesc v80](https://github.com/rainestorme/resources/blob/main/80.sh)
 
 ### Web
 - https://github.com/rainestorme/GoodbyeGoGuardian
