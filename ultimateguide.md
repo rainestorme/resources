@@ -1,3 +1,5 @@
+# This guide has been superseded by the Chromebook Exploit Guide: https://chromebook-guide.github.io/
+
 # The ultimate exploit guide
 
 For this set of exploits, you will need one (or two, if you want to use the unenrollment exploit easily) 8gb or larger USB drive(s), and a chromebook with a board that's either on chrome100 or cros.tech (or, if you're unlucky enough to be on `kindred`, see [here](https://rainestorme.github.io/chrome81/kindred)). There's no need to have your chromebook be compatible with sh1mmer, because this exploit uses only recovery images and traditional exploits.
