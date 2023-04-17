@@ -3,7 +3,7 @@ A collection of useful links, tools, and files.
 
 Check out my blog: https://rainestorme.github.io/
 
-So, you wanna unenroll your Chromebook? Check out: https://github.com/rainestorme/resources/blob/main/ultimateguide.md
+So, you wanna unenroll your Chromebook? Check out: https://chromebook-guide.github.io/
 
 ## Proxies
 - https://github.com/HENRYMARTIN5/proxy-list (Ultraviolet-based)
